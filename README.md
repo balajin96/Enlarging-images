@@ -1,4 +1,5 @@
-# Enlaring-images using Html, Css, Js & tilt.js
+## Enlaring-images
+**using HTML5, CSS3, JS & tilt.js**
 
 **"Desktop view only supported!"**
 
