@@ -10,6 +10,7 @@ I took it as a challenge from 50projects50days course (expanding-cards) by Bradt
 
 I used tilt.js for lightweight parallax hover tilt effect. https://gijsroge.github.io/tilt.js/ 
 
-|  #  | Project                                                                                                                     | Live Demo                                      
+|  #  | Project                                                                                  | Live Demo
+
 | 01  | [Enlarging Cards]                                                           | [Live Demo](https://balajin96.github.io/Enlarging-images/) |
 
