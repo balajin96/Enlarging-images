@@ -1,6 +1,7 @@
 # Enlaring-images with tilt.js
 https://balajin96.github.io/Enlarging-images/
 7 Wonders in the World. 
+Desktop view only supported.
 
 unsplash website images are used in this project. https://unsplash.com/
 
