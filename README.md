@@ -1,4 +1,4 @@
-# Expanding-Card
+# Enlaring-images with tilt.js
 7 Wonders in the World. 
 
 unsplash website images are used in this project.
